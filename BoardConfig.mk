@@ -24,7 +24,7 @@
 include device/samsung/zero-common/BoardConfigCommon.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := zerofltexx,zeroflte,zeroflteskt,zerofltecan,zeroltexx,zeroltespr,zeroltecan,zerofltetmo,zerofltbmc,zeroltetmo,zeroltebmc
+TARGET_OTA_ASSERT_DEVICE :=zerofltexx,zeroflte,zeroflteskt,zerofltecan,zeroltexx,zeroltespr,zeroltecan,zerofltetmo,zerofltbmc,zeroltetmo,zeroltebmc,zerolte
 
 # Include path
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/zerofltexx/include
