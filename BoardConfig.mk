@@ -34,3 +34,4 @@ TARGET_KERNEL_CONFIG := lineageos_zerofltexx_defconfig
 
 # Radio
 BOARD_MODEM_TYPE := ss333
+WITH_DEXPREOPT := false
